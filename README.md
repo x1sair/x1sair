@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**x1sair/x1sair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Замени USERNAME на свой ник GitHub, а TG_USERNAME на ник в Telegram --> <!-- ========== ШАПКА-БАННЕР ========== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Daniil&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Modder&descAlignY=58&descSize=20" width="100%" alt="banner"/> </p> <!-- ========== АНИМИРОВАННЫЙ ТЕКСТ ========== --> <p align="center"> <a href="https://github.com/USERNAME"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Привет!+Я+Даниил+👋;Пишу+сайты,+ботов+и+моды;Учусь+и+делаю+проекты+каждый+день" alt="typing"/> </a> </p> <!-- ========== КНОПКИ-ССЫЛКИ ========== --> <p align="center"> <a href="https://t.me/TG_USERNAME"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a> <a href="https://www.tiktok.com/@TIKTOK_USERNAME"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/> </a> <a href="https://discord.com/users/DISCORD_ID"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Просмотры+профиля&color=7c3aed&style=flat-square" alt="views"/> </p>
+👨‍💻 Обо мне
+🎓 Студент, изучаю веб-разработку, базы данных и математику
+🔨 Сейчас работаю над: FreakBubbles — мод для Minecraft (Fabric 1.20.1), показывающий веб-камеры игроков над головами
+🤖 Делаю Telegram-ботов
+🎬 Монтирую анимированные видео для TikTok
+🌍 Говорю на русском 🇷🇺
+🛠 Стек технологий
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,java,postgres,mysql,sqlite,git,github,vscode,idea&perline=8" alt="skills"/> </p>
+📊 Статистика GitHub
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0:0f0c29,100:24243e" alt="stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity"/> </p>
+📌 Избранные проекты
+<table> <tr> <td width="50%"> <a href="https://github.com/USERNAME/FreakBubbles"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=FreakBubbles&theme=tokyonight&hide_border=true" alt="FreakBubbles"/> </a> </td> <td width="50%"> <a href="https://github.com/USERNAME/REPO_NAME"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="project"/> </a> </td> </tr> </table>
+🐍 Змейка из моих коммитов
+<p align="center"> <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" alt="snake"/> </p> <!-- Чтобы змейка заработала, добавь workflow (см. инструкцию в чате) --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/> </p>
